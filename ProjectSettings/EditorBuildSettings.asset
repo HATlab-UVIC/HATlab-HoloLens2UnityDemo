@@ -8,7 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FirstScene.unity
     guid: 3865d59f6331acb45bc41c581b59d3b0
+  - enabled: 0
+    path: Assets/Scenes/Mars.unity
+    guid: 58131b55d04e59b45a37fe148962e436
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ef0bced5ca53d8a47a2530cbb9bc132f,
+      type: 2}
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 10f025dbfd91e3140a44e1c438be96aa,
       type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d439cbc396af8994fbb763c2d82decc9,
